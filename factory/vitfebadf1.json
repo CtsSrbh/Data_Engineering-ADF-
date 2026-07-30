@@ -1,0 +1,15 @@
+{
+	"name": "vitfebadf1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "westus3",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6248ac76-f47f-40c3-b547-72c4defc4aac",
+		"tenantId": "b3f5ce26-63be-49c4-829c-e97896e3cf44"
+	}
+}
